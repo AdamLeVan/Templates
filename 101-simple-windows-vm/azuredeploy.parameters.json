@@ -12,13 +12,13 @@
       "value": "Passw0rd!"
     },
     "dnsNameForPublicIP": {
-      "value": "awl36963"
+      "value": "awl3696"
     },
     "location": {
-        "value": "West US"
+      "value": "West US"
     },
     "sizeOfDiskInGB": {
-        "value": "20"
+      "value": "20"
     }
   }
 }
